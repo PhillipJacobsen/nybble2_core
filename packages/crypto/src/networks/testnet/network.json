@@ -1,18 +1,18 @@
 {
     "name": "testnet",
-    "messagePrefix": "TEST message:\n",
+    "messagePrefix": "nyb2 message:\n",
     "bip32": {
         "public": 70617039,
         "private": 70615956
     },
-    "pubKeyHash": 23,
-    "nethash": "d9acd04bde4234a81addb8482333b4ac906bed7be5a9970ce8ada428bd083192",
-    "wif": 186,
+    "pubKeyHash": 65,
+    "nethash": "1d5d63caa2454187538910c4f11d28d465d30bd18c22ce7dbbc26f8686084d4e",
+    "wif": 17,
     "slip44": 1,
     "aip20": 0,
     "client": {
-        "token": "TARK",
-        "symbol": "TѦ",
-        "explorer": "http://texplorer.ark.io"
+        "token": "nyb2",
+        "symbol": "N2",
+        "explorer": "http://0.0.0.0:4200"
     }
 }
